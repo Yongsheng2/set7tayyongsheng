@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">set7tayyongsheng</string>
+    <string-array name="bank">
+        <item>Hong Leong Auto Loan</item>
+        <item>Maybank Hire Purchase</item>
+        <item>Public Bank Aitab Hire Purchase-i</item>
+    </string-array>
+    <string name="loan_amount">Loan Amount</string>
+    <string name="down_payment">Down Payment Amount</string>
+    <string name="loanperiod">Load Period (in year)</string>
+    <string name="interestrate">Interest Rate</string>
+    <string name="calculate">Calculate</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="result">Result</string>
+    <string name="interest">Interest</string>
+    <string name="reset">Reset</string>
+</resources>
+
